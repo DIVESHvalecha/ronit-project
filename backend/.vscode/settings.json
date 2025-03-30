@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/diveshvalecha/Documents/Vs Code/ronit project/backend/venv/bin/python3",   // Path to your venv interpreter
+    "python.analysis.extraPaths": ["./backend"]        // Ensures Django app is recognized
+}
